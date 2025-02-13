@@ -29,7 +29,11 @@
 
         h2{ 
             margin-top: 8px;
-            
+
+        }
+
+        &:has(.txt-lg){
+            padding: 12px;
         }
     }
 }
